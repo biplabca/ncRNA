@@ -1,0 +1,11 @@
+# basic options
+title: All about RNA
+author: Biplab Paul
+email: bpaul5@mgh.harvard.edu
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
